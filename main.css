@@ -11,6 +11,8 @@ body{
 div {
     position: absolute;
     text-align: center;
+    height: 2400px;
+    width: 1900px;
 }
 
 
