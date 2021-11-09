@@ -8,7 +8,7 @@ body{
     margin-left: 0px;
     background-color: rgb(172, 172, 35);
 }
-div {
+#main {
     position: absolute;
     text-align: center;
     height: 2400px;
