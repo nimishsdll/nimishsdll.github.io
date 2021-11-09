@@ -11,3 +11,11 @@ section{
     height: 2400px;
     width: 1900px;
 }
+
+article{
+    height: 800px;
+}
+
+#top{
+    color: rgb(172, 172, 35);
+}
