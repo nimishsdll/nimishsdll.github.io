@@ -3,5 +3,8 @@ body{
     font-size: large;
 }
 div{
+    position: absolute;
     text-align: center;
+    top:50%;
+    left: 50%;
 }
