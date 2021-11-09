@@ -2,10 +2,10 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
     
-    margin-top: -21px;
-    margin-right: -21px;
+    margin-top: 0px;
+    margin-right: 0px;
     
-    margin-left: -21px;
+    margin-left: 0px;
     background-color: rgb(172, 172, 35);
 }
 div {
@@ -13,17 +13,4 @@ div {
     text-align: center;
 }
 
-section{
-    height: 2400px;
-    width: 1900px;
-}
-
-article{
-    height: 800px;
-}
-
-#top{
-    color: rgb(172, 172, 35);
-    background-color: black;
-}
 
