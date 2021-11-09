@@ -5,11 +5,9 @@ body{
 div {
     position: absolute;
     text-align: center;
-    top: 30%;
-    left: 40%;
 }
 
 section{
-    height: 1200px;
-    width: 1920px;
+    height: 2400px;
+    width: 1900px;
 }
