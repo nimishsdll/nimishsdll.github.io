@@ -18,7 +18,8 @@ body{
     background-color: cadetblue;
     height: 100%;
     width: 400px;
-    clip-path:ellipse(100% 80% at 10% 20%);
+    border-radius: 790px/0px 127px 1100px 0px; 
+    border: 0px solid #800000;
     box-shadow: 9px -8px 14px 0px rgba(130, 130, 130, 1);
 }
 
