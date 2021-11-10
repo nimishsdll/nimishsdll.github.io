@@ -18,6 +18,7 @@ body{
     background-color: cadetblue;
     height: 100%;
     width: 400px;
+    clip-path: circle(100% at 10% 20%);
 
 }
 
