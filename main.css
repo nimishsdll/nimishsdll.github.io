@@ -4,7 +4,7 @@ body{
     margin-top: 0px;
     margin-right: 0px;
     margin-left: 0px;
-    background-color: rgb(172, 172, 35);
+    background-color: #B7CC1B;
 }
 .container {
     position: absolute;
@@ -19,8 +19,6 @@ body{
     height: 100%;
     width: 400px;
     clip-path:ellipse(100% 80% at 10% 20%);
+    box-shadow: 9px -8px 14px 0px rgba(130, 130, 130, 1);
 }
-
-
-
 
