@@ -1,18 +1,23 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
-    
     margin-top: 0px;
     margin-right: 0px;
-    
     margin-left: 0px;
     background-color: rgb(172, 172, 35);
 }
-#main {
+.container {
     position: absolute;
     text-align: center;
-    height: 2400px;
+    height: 700px;
     width: 1900px;
 }
 
+#static {
+    position: fixed;
+    background-color: cadetblue;
+    height: 700px;
+    width: 400px;
+
+}
 
