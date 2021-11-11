@@ -5,6 +5,7 @@ body{
     margin-right: 0px;
     margin-left: 0px;
     background-color: #B7CC1B;
+    overflow-y: hidden;
 }
 .container {
     position: absolute;
@@ -18,11 +19,14 @@ body{
     width: 1120px;
     
     
+    
 }
 
 #secondpage{
-    margin-left: 420px;
+    
     width: 1120px;
+    background-color: black;
+    
     
     
 }
