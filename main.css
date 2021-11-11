@@ -21,5 +21,6 @@ body{
     border-radius: 790px/0px 127px 1100px 0px; 
     border: 0px solid #800000;
     box-shadow: 9px -8px 14px 0px rgba(130, 130, 130, 1);
+    background: linear-gradient(to right, #5F9EA0 0%, #89e2e4 05%, #7FD3D5 55%, #5c9496 100%);
 }
 
