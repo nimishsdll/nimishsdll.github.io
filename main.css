@@ -13,6 +13,13 @@ body{
     width: 3000px;
 }
 
+#landingpage{
+    margin-left: 10px;
+    width: 1000px;
+    
+    
+}
+
 #static {
     position: fixed;
     background-color: cadetblue;
@@ -23,4 +30,6 @@ body{
     box-shadow: 9px -8px 14px 0px rgba(130, 130, 130, 1);
     background: linear-gradient(to right, #5F9EA0 0%, #89e2e4 05%, #7FD3D5 55%, #5c9496 100%);
 }
+
+
 
