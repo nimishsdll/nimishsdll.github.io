@@ -1,47 +1,31 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: large;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-left: 0px;
-    background-color: #B7CC1B;
-    overflow-y: hidden;
-}
-.container {
-    position: absolute;
-    text-align: center;
-    height:100%;
-    width: 3360px;
+    margin: 0;
+    padding: 0;
 }
 
-#landingpage{
-    margin-left: 420px;
-    width: 1120px;
-    
-    
-    
+.slide{
+    width: 100vw;
+    height: 100vh;
 }
 
-#secondpage{
-    
-    width: 1120px;
-    background-color: black;
-    
-    
-    
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    width:400vw;
 }
 
-
-#static {
-    position: fixed;
-    background-color: cadetblue;
-    height: 100%;
-    width: 400px;
-    border-radius: 790px/0px 127px 1100px 0px; 
-    border: 0px solid #800000;
-    box-shadow: 9px -8px 14px 0px rgba(130, 130, 130, 1);
-    background: linear-gradient(to right, #5F9EA0 0%, #89e2e4 05%, #7FD3D5 55%, #5c9496 100%);
+.one{
+    background-color: blanchedalmond;
 }
 
+.two{
+    background-color: rgb(236, 204, 100);
+}
 
+.three{
+    background-color: rgb(20, 204, 100);
+}
 
+.four{
+    background-color:rgb(86, 99, 219);
+}
