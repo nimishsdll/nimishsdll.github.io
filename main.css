@@ -29,3 +29,12 @@ body{
 .four{
     background-color:rgb(86, 99, 219);
 }
+
+.outer-wrapper{
+    width: 100vh;
+    height: 100vw;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+
+}
