@@ -12,8 +12,7 @@ body{
     display: flex;
     flex-direction: row;
     width:400vw;    
-    transform: rotate(90deg) translateY(-100vh);
-    transform-origin: top left;
+    
 }
 
 .one{
@@ -35,9 +34,6 @@ body{
 .outer-wrapper{
     width: 100vh;
     height: 100vw;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    transform: rotate(-90deg) translateX(-100vh);
-    transform-origin: top left;
-    position: absolute;
+    
+    
 }
