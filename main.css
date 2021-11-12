@@ -4,8 +4,8 @@ body{
 }
 
 .slide{
-    width: 100vw;
-    height: 100vh;
+    width: 100vh;
+    height: 100vw;
 }
 
 .wrapper{
@@ -35,7 +35,7 @@ body{
     width: 100vh;
     height: 100vw;
     position: absolute;
-    overflow-x: hidden;
+    
     
     
 }
