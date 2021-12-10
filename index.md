@@ -1,7 +1,9 @@
 ---
+
 title: "Personal Blog"
 permalink: /
 layout: default
+
 ---
 
 This is my personal page. 
