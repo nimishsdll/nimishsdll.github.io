@@ -2,19 +2,41 @@ doctype html
 html
     head
         link(rel="stylesheet", href="style.css")
-        nav
-            a(href="Features.html") Features
-            a(href="Solutions.html") Solutions
-            a(href="Resources.html") Resources
-            a(href="pricing.html") Pricing
-            button Log-in 
-            button Sign-Up
+        
 
         
 
-    body 
-        h1 One app the world loves.
-        article Open a free account in minutes right from your phone, and make your money go further.
+    body
+        div.root
+            div.navbar 
+                div.logo
+                    img(src="as_logo.png", alt="AS Logo") 
+                nav
+                    ul
+                        li
+                            a(href="Features.html") Features 
+                        li
+                            a(href="solutions.html") Solutions 
+                        li
+                            a(href="resources.html")  Resources
+                        li
+                            a(href="pricing.html")  Pricing
+                    
+                nav.login     
+                    ul 
+                        li 
+                            a(href="login-page.html") Log-in  
+                            
+                        li 
+                            a(href="signup-page.html") Sign up                
+            
+            
+            div.content   
+                h1 One app the world loves.
+                article Open a free account in minutes right from your phone, and make your money go further.
+
+            .graphics     
+                img(src="undraw_report_re_f5n5.svg", alt="profit Growth is seen.")
         
 
     foot
